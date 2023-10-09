@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@500&family=Roboto+Slab&display=swap');
+
+.Heading{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.Heading2{
+    text-align: center;
+    font-size: 100px;
+    font-family: nos;
+    color: black;
+    color-scheme: rgb(177, 134, 55);
+}
+.menu-bar{
+    text-align: justify;
+    background-color: rgba(43, 59, 59, 0.007);
+    size: 30%;
+}
+.menu-bar ul{
+    display: inline-flex;
+    color: black;
+}
+.menu-bar ul li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li:hover{
+    background: none;
+    color: violet;
+    border-radius: 3px;
+}
+.paragraph5{
+    font-size: 20px;
+    font-family: Courier;
+    margin: 30px;
+    color:orange;
+}
+
+.lets-go-btn{
+    color: firebrick;
+    background: goldenrod;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: -15px;
+}
+.lets-go-btn:hover{
+    background: cyan;
+}
+
+.p2{
+    font-size: 25px;
+    text-align: left;
+    text-wrap: 10%;
+    box-sizing: content-box ;
+    color: whitesmoke;
+}
+
+.p2:hover{
+    color: aqua;
+}
+
+.footer{
+    background-color: none;
+    margin-top: 12%;
+    margin-left: 3%;
+}
+.p1:hover{
+    color:rgb(75, 183, 197);
+}
+
+.p1{
+    color: whitesmoke;
+    font-size: larger;
+    padding-bottom: 10px;
+
+}
